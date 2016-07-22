@@ -5,6 +5,12 @@ import UIKit
 var str = "Hello, playground"
 print(str)
 
+/*: Create a bulleted list of animals
+ ### Some Animals
+ * Cat
+ * Dog
+ * Llama
+*/
 
 import Foundation
 
